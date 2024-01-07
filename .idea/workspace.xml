@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bef3e34f-db98-488a-9e69-39f289c496d9" name="Changes" comment="" />
+    <list default="true" id="bef3e34f-db98-488a-9e69-39f289c496d9" name="Changes" comment="lesson 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +110,19 @@
       <option name="presentableId" value="Default" />
       <updated>1704310489089</updated>
     </task>
+    <task id="LOCAL-00001" summary="lesson 5">
+      <option name="closed" value="true" />
+      <created>1704653096807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704653096807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 5" />
   </component>
 </project>
