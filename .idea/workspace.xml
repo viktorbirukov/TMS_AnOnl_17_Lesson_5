@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bef3e34f-db98-488a-9e69-39f289c496d9" name="Changes" comment="lesson 5" />
+    <list default="true" id="bef3e34f-db98-488a-9e69-39f289c496d9" name="Changes" comment="lesson 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,24 +31,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Chess.executor": "Run",
-    "Application.Chess_B_W.executor": "Run",
-    "Application.Diagonal.executor": "Run",
-    "Application.Mass_vozrast.executor": "Run",
-    "Application.Massiv_summa.executor": "Run",
-    "Application.Matrix_umnozh.executor": "Run",
-    "Application.ThreeArray.executor": "Run",
-    "Application.Tri_mass_cycle.executor": "Run",
-    "Application.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/victor/IdeaProjects/TMS_AnOnl_17_Lesson_5/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Chess.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Chess_B_W.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Diagonal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mass_vozrast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Massiv_summa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix_umnozh.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tri_mass_cycle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/victor/IdeaProjects/TMS_AnOnl_17_Lesson_5/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Tri_mass_cycle">
     <configuration name="Diagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Diagonal" />
@@ -126,7 +128,39 @@
       <option name="project" value="LOCAL" />
       <updated>1704653748799</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson 5">
+      <option name="closed" value="true" />
+      <created>1704655053823</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704655053823</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 5">
+      <option name="closed" value="true" />
+      <created>1704655092232</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704655092232</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson 5">
+      <option name="closed" value="true" />
+      <created>1704655116046</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704655116046</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson 5">
+      <option name="closed" value="true" />
+      <created>1704655129063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704655129063</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
